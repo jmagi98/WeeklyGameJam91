@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\Driver.cs" />
     <Compile Include="Assets\Scripts\Room.cs" />
     <Compile Include="Assets\Scripts\RoomNav.cs" />
+    <None Include="Assets\Pixel Font - Tripfive\_README.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/jmagi/Desktop/Game Jams/WeeklyGameJam91/Weekly Game Jam 91/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

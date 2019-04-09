@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a33987be2b2c4fd4fb9e6d3d432993b9, type: 3}
+  m_Name: Starting Room
+  m_EditorClassIdentifier: 
+  description: It had never even crossed your mind that you might find something like
+    this down here. There was never any reason to suspect that such a sprawling ruin
+    would lie here in the middle of the ocean, so far from the nearest land.
+  roomName: starting room

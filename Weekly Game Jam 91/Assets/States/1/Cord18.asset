@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord18
+  m_EditorClassIdentifier: 
+  storyText: 'The murky waters are fading a bit, and you can catch glimpses of movement
+    out of the corner of your eye. Every time you look in the direction of the movement,
+    there is nothing other than a trail of sediment. This is really creepy.
+
+
+'
+  stateArr:
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a7f91cc3aeda10b409bc30f5ad5649e7, type: 2}
+  - {fileID: 11400000, guid: 13267b365104fa142841274ce3816b20, type: 2}

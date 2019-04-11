@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord12
+  m_EditorClassIdentifier: 
+  storyText: "You\u2019ve arrived at the entryway of a larger building. Although the
+    arch above the doorway is crumbled, you think the building will hold. It terrifies
+    you to think of being trapped here beneath the ruins."
+  stateArr:
+  - {fileID: 11400000, guid: e0b4c7dab551a0141827a19a3b3fecb3, type: 2}
+  - {fileID: 11400000, guid: 20b689e11d770754aa50015ee7c13842, type: 2}
+  - {fileID: 11400000, guid: 245a00391b7c8334ea7597baf97c9242, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

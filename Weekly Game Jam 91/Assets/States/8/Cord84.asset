@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord84
+  m_EditorClassIdentifier: 
+  storyText: You hit a dead end at the outer wall. However, there are two small rooms
+    on either side of the passage that are worth investigating.
+  stateArr:
+  - {fileID: 11400000, guid: b89893d0d552dc74fbe29fc78c44c633, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: dcc15c96874f5c941986c0a45d329c54, type: 2}
+  - {fileID: 11400000, guid: 48750eeb07a8208478653e844c24b67c, type: 2}

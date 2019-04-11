@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord85
+  m_EditorClassIdentifier: 
+  storyText: 'You continue through the ruins. Not much light is filtering down to
+    you at this point, but you are lucky you brought your flashlight with you. '
+  stateArr:
+  - {fileID: 11400000, guid: c7718ae1d5c51134aabd629d5ba1f94a, type: 2}
+  - {fileID: 11400000, guid: 55d54dab44f70364599cc0ae47b21fbc, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

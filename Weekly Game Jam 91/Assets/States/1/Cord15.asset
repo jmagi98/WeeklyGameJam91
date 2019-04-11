@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord15
+  m_EditorClassIdentifier: 
+  storyText: "You continue to swim through the ruins. There are crumbling statues
+    on either side of an entryway into a large building. Algae and weeds grow around
+    the statues. It\u2019s impossible to tell what shape the statues were originally.\n"
+  stateArr:
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: 1b028fb08f828db4e8194627daac4f0c, type: 2}
+  - {fileID: 11400000, guid: 072ec772accf75d42a2f9af944934c00, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

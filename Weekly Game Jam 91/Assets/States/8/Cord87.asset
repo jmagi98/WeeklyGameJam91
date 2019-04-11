@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord87
+  m_EditorClassIdentifier: 
+  storyText: This area is more of the same. You see lots of the glowing corals, and
+    more of the strange symbols that have been drawn elsewhere in the ruins.
+  stateArr:
+  - {fileID: 11400000, guid: 423c0d4aa44b3304e8b89ddfd96c06d7, type: 2}
+  - {fileID: 11400000, guid: c7718ae1d5c51134aabd629d5ba1f94a, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

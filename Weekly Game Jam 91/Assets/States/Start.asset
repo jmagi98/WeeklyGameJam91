@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  storyText: 'It had never even crossed your mind that you might find something like
+    this down here. There was never any reason to suspect that such a sprawling ruin
+    would lie here in the middle of the ocean, so far from the nearest land. You check
+    your oxygen. You have plenty of time to spare. Time to find out what happened
+    here. '
+  stateArr:
+  - {fileID: 11400000, guid: fe97a2d8d5c9232408abcee6bb8b2c2e, type: 2}
+  - {fileID: 11400000, guid: 60988a812867ca14689f0b851b6728aa, type: 2}
+  - {fileID: 11400000, guid: 2867b8657b3ef6a498c48a58c136b926, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

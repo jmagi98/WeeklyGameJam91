@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord62
+  m_EditorClassIdentifier: 
+  storyText: "You see bright corals growing along the ground. It seems awfully dark
+    for life to be flourishing here, but admittedly you don\u2019t know much about
+    biology."
+  stateArr:
+  - {fileID: 11400000, guid: edc6a960d58961d4cbb64eb0b40db837, type: 2}
+  - {fileID: 11400000, guid: d44956e57e331c347918c6b2d845e948, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

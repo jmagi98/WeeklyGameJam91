@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord14
+  m_EditorClassIdentifier: 
+  storyText: As you continue into the building, you see stone ruins that are set up
+    in the shape of tables. Maybe this was a resting area, or a place to eat.
+  stateArr:
+  - {fileID: 11400000, guid: d633f19d551e82a4aa3828308a47d6a6, type: 2}
+  - {fileID: 11400000, guid: e0b4c7dab551a0141827a19a3b3fecb3, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

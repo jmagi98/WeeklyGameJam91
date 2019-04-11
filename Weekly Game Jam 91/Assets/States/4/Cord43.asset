@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord43
+  m_EditorClassIdentifier: 
+  storyText: "A ruined roof stretches out above you. It seems like this used to be
+    a building before something catastrophic happened here. You can\u2019t help but
+    think about the past residents of this doomed city. Who were they? What happened?"
+  stateArr:
+  - {fileID: 11400000, guid: 6d5d7e0156dec524eb53a651f382c966, type: 2}
+  - {fileID: 11400000, guid: fe97a2d8d5c9232408abcee6bb8b2c2e, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

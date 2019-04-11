@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 8dc218a97ee107443a27820e9aa2c3fd
+  productGUID: 41c69e4ff126d2543b2a9f5f782bd9d2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -586,9 +586,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 7577e66f-998b-4bc5-b17c-608a3d2cfacc
+  cloudProjectId: 859c3f68-44b8-4079-a971-7ccc4fa9d1b2
   framebufferDepthMemorylessMode: 0
-  projectName: Weekly Game Jam 91 (1)
+  projectName: Weekly Game Jam 91 (2)
   organizationId: jmagi98
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

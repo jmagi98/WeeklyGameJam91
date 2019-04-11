@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Win3
+  m_EditorClassIdentifier: 
+  storyText: "It reeks here like the stench of death, mingled with fish and the underlying
+    smell of rotten eggs. Something must have died here long ago, and with no way
+    to get fresh air, the smells have lingered for hundreds or even thousands of years.\r
+    (SPACE)\n\r\n"
+  stateArr:
+  - {fileID: 11400000, guid: 55dc50cf2cba2a74f8738563a4a5b5a7, type: 2}

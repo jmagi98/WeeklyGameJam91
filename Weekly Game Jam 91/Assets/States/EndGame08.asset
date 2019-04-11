@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
   m_Name: EndGame08
   m_EditorClassIdentifier: 
-  storyText: 
-  stateArr: []
+  storyText: 'You come upon an enormous black door. In contrast to the ruins throughout
+    this sunken city, the door is not crumbling or decayed in any way. This seems
+    to be the largest building in the entire ruins. Carved into the door are three
+    very large spherical holes. '
+  stateArr:
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: 4d0a3863abe67644ead185101573c680, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: bb94ba2a9d0505f4aac7324cbdac9932, type: 2}

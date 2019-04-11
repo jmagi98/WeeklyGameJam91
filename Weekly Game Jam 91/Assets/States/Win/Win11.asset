@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Win11
+  m_EditorClassIdentifier: 
+  storyText: "A movement to your side catches you off guard. It\u2019s completely
+    dark, but you felt the air move and are certain that you didn\u2019t cause it.
+    You turn your face but can\u2019t make anything out. You reach out for your flashlight
+    on the ground, turning it to face the direction of the noise. You see one of the
+    rotten, decaying tentacles darting towards you, its tip outstretched. Everything
+    goes black.\r (SPACE)"
+  stateArr:
+  - {fileID: 11400000, guid: 42925b74625e8ab48b31274c96dab324, type: 2}

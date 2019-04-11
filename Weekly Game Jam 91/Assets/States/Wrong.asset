@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Wrong
+  m_EditorClassIdentifier: 
+  storyText: You sink the last sphere into the hole, but nothing happens. Maybe you
+    should try again. Press SPACE to try again or BACKSPACE to go back.
+  stateArr:
+  - {fileID: 11400000, guid: bb94ba2a9d0505f4aac7324cbdac9932, type: 2}
+  - {fileID: 11400000, guid: 13267b365104fa142841274ce3816b20, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Win1
+  m_EditorClassIdentifier: 
+  storyText: "You\u2019re almost sure it\u2019s broken, but before you can think much
+    of the pain, your whole body is smashed against another wall inside the temple.
+    The water beside you ebbs and you realize that you\u2019ve come to a stop on a
+    dry platform within the massive building. You look around in the darkness before
+    realizing that you can take off your diving mask and air..(SPACE)"
+  stateArr:
+  - {fileID: 11400000, guid: 4a16f8481b7396b44b8828273093cae9, type: 2}

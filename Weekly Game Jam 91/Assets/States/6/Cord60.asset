@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Cord60
+  m_EditorClassIdentifier: 
+  storyText: Ahead you see only a vast, empty space where the sea floor stops suddenly.
+    You have come to a cliff overlooking the depths. You feel a sense of wonder, but
+    also dread. If you were to explore down there, you might never find your way back
+    up from the darkness.
+  stateArr:
+  - {fileID: 11400000, guid: d44956e57e331c347918c6b2d845e948, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
+  - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

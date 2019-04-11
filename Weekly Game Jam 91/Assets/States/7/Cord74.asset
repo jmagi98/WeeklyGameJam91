@@ -14,10 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Inside the room, you see a red pulsing stone. It almost looks like a
     beating heart. As you approach, you see that it\u2019s a perfect sphere engraved
-    with an octopus carving. It beats quickly, and although you feel afraid, you know
-    that you should take this stone with you. You reach out to it slowly, making contact
-    with the beating sphere. Nothing happens as you touch it, so you pull it back
-    toward you and save it in your diving bag."
+    with an octopus carving. Although you feel afraid, you know that you should take
+    this stone with you. You reach out to it slowly, making contact with the beating
+    sphere. You pull it back toward you and save it in your diving bag."
   stateArr:
   - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}
   - {fileID: 11400000, guid: a1fa751bc2dfb2146a80aa50e4732884, type: 2}

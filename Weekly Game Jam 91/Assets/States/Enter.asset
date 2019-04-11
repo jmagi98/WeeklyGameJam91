@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d07197b52c1bb4db8e1b758670ff6d, type: 3}
+  m_Name: Enter
+  m_EditorClassIdentifier: 
+  storyText: 'Use the numbers on your keyboard to enter the stones:
+
+    1: Trident
+
+    2: Octopus
+
+    3: Wave'
+  stateArr:
+  - {fileID: 11400000, guid: ed2d3e84e307f4a43bc4c59195f91fac, type: 2}
+  - {fileID: 11400000, guid: 90c3ac7bb4d9f564392a7a16bcd83ae9, type: 2}
